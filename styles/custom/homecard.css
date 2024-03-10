@@ -1,0 +1,17 @@
+.homeCardBody{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.homeCardBodyButton{
+    color: white;
+    font-weight: 800;
+    padding: 10px 15px;
+    background-color: rgb(132, 132, 253);
+    border-radius: 7px;
+}
+
